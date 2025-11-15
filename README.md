@@ -303,11 +303,3 @@ export const getCategoryColor = (category: TaskCategory): string => {
 3. Commit changes: `git commit -am 'Add new feature'`
 4. Push to branch: `git push origin feature/my-feature`
 5. Submit a pull request
-
-## License
-
-This project is licensed under the MIT License.
-
-## Contact
-
-For issues or questions, please create an issue in the repository.
