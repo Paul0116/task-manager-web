@@ -5,23 +5,23 @@ A modern, clean, and responsive personal task manager application built with Rea
 ## Features
 
 ### Core Features
-- ✅ **Create, Read, Update, Delete (CRUD) Tasks**
-- 📅 **Calendar View** - Visualize tasks in a monthly calendar
-- 📋 **List View** - View tasks in a detailed list format
-- 🔍 **Advanced Filtering & Sorting**
+- **Create, Read, Update, Delete (CRUD) Tasks**
+- **Calendar View** - Visualize tasks in a monthly calendar
+- **List View** - View tasks in a detailed list format
+- **Advanced Filtering & Sorting**
   - Sort by: Priority, Due Date, Category, Created Date
   - Filter by date range
-- 🏷️ **Task Categories** - Organize tasks into: Work, Personal, Health, Education, Shopping
-- 🎯 **Priority Levels** - Set priorities from 1 (lowest) to 5 (highest)
-- 📱 **Responsive Design** - Works seamlessly on desktop, tablet, and mobile
+-  **Task Categories** - Organize tasks into: Work, Personal, Health, Education, Shopping
+-  **Priority Levels** - Set priorities from 1 (lowest) to 5 (highest)
+-  **Responsive Design** - Works seamlessly on desktop, tablet, and mobile
 
 ### Technical Features
-- 🔄 **Automatic Retry Logic** - Handles API failures gracefully with exponential backoff
-- ⚡ **Optimistic Updates** - Fast, responsive UI with React Query
-- 💾 **State Persistence** - Filters and preferences saved locally
-- 🎨 **Material-UI Design** - Clean, modern, and accessible interface
-- 🛡️ **Type Safety** - Full TypeScript coverage with Zod validation
-- 🏗️ **Clean Architecture** - Separated layers for maintainability
+-  **Automatic Retry Logic** - Handles API failures gracefully with exponential backoff
+-  **Optimistic Updates** - Fast, responsive UI with React Query
+-  **State Persistence** - Filters and preferences saved locally
+-  **Material-UI Design** - Clean, modern, and accessible interface
+-  **Type Safety** - Full TypeScript coverage with Zod validation
+-  **Clean Architecture** - Separated layers for maintainability
 
 ## Architecture
 
