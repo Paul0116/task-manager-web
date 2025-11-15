@@ -1,0 +1,6 @@
+export const config = {
+  apiBaseUrl: import.meta.env.VITE_API_BASE_URL || 'http://localhost:8080',
+  userId: import.meta.env.VITE_USER_ID || 'Argaop01',
+  retryAttempts: 3,
+  retryDelay: 1000,
+} as const;
